@@ -1,12 +1,12 @@
-# Software de Gestión para Técnico de PC 🖥️
+# Software de Gestión para Técnico de PC 
 
 Un sistema completo de gestión diseñado específicamente para técnicos de PC, que permite organizar clientes, equipos, reparaciones y el flujo de trabajo diario de manera eficiente.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 Este proyecto utiliza un stack de tecnologías moderno y escalable, dividiendo la aplicación en frontend y backend para una mejor organización y mantenimiento.
 
-### 🎨 Frontend: Next.js, TypeScript y Shadcn/ui
+###  Frontend: Next.js, TypeScript y Shadcn/ui
 
 El frontend se encarga de toda la interfaz de usuario (UI) y la interacción directa con el técnico.
 
@@ -26,7 +26,7 @@ El backend es el corazón de la aplicación, manejando la lógica de negocio, la
 
 - **Prisma**: Un ORM (Object-Relational Mapper) de última generación que simplifica la interacción con la base de datos. En lugar de escribir código SQL, utiliza un cliente tipado para realizar consultas de forma segura e intuitiva. Prisma también gestiona las migraciones de la base de datos de manera automática.
 
-### 🗄️ Base de Datos: MySQL
+###  Base de Datos: MySQL
 
 Se utiliza un sistema de gestión de bases de datos relacionales robusto y confiable.
 
@@ -34,7 +34,7 @@ Se utiliza un sistema de gestión de bases de datos relacionales robusto y confi
 
 - **Prisma**: Se encarga de toda la comunicación con MySQL, permitiendo definir el esquema de datos de manera declarativa y ejecutar migraciones de forma segura a medida que el proyecto evolucione.
 
-## 🏗️ Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 El flujo de información de la aplicación se estructura de la siguiente manera:
 
@@ -51,7 +51,7 @@ El flujo de información de la aplicación se estructura de la siguiente manera:
 
 Este stack tecnológico permite construir una aplicación sólida, mantenible y con excelente rendimiento.
 
-## 🚀 Características Principales
+##  Características Principales
 
 - **Gestión de Clientes**: Registro y seguimiento completo de clientes
 - **Control de Equipos**: Inventario detallado de equipos en reparación
@@ -60,7 +60,7 @@ Este stack tecnológico permite construir una aplicación sólida, mantenible y 
 - **Tipado Fuerte**: Código más seguro y mantenible con TypeScript
 - **Base de Datos Robusta**: Almacenamiento confiable con MySQL
 
-## 🛠️ Instalación y Configuración
+##  Instalación y Configuración
 
 ### Prerrequisitos
 
