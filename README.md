@@ -16,7 +16,7 @@ El frontend se encarga de toda la interfaz de usuario (UI) y la interacción dir
 
 - **Shadcn/ui**: Un conjunto de componentes de UI personalizables y accesibles. Está construido sobre Radix UI y Tailwind CSS, lo que proporciona control total sobre el diseño y una base sólida para crear una interfaz moderna y profesional.
 
-### ⚙️ Backend: Node.js, Express y Prisma
+###  Backend: Node.js, Express y Prisma
 
 El backend es el corazón de la aplicación, manejando la lógica de negocio, la autenticación y la conexión con la base de datos.
 
